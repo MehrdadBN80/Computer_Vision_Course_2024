@@ -1,6 +1,7 @@
 # Computer Vision - Assignment 3 
 
 **Instructor**: Dr. Ahmad Mahmoudi Aznaveh 
+
 **Course**: Computer Vision - spring 2024  
 ---
 
