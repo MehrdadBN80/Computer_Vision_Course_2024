@@ -1,5 +1,5 @@
 # Computer Vision Assignment - Second Assignment  
-**Instructor: Dr. Ahmad Modi**  
+**Instructor: Dr. Ahmad Mahmoudi Aznaveh**  
 
 This assignment builds on the foundations of image processing and computer vision, covering edge detection, corner detection, feature extraction, and object detection. You will explore classical techniques, such as filtering and feature matching, and implement a CNN-based model for object detection.
 
